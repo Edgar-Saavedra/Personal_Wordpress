@@ -6,8 +6,8 @@
 				
 					<div class="gallery">
 	                    <a class="thumb">
-						<img src='/img/gal1thumb.png" width="75px" height="600px' border="0"/>
-						<span><img src="/img/print1.png"/><br/>text</span></a>
+						<img src="./img/gal1thumb.png" width="75px" height="600px' border="0"/>
+						<span><img src="./img/print1.png"/><br/>text</span></a>
 						
 						<a class="thumb">
 						<img src="./img/gal2thumb.png" width="75px" height="600px" border="0"/>
